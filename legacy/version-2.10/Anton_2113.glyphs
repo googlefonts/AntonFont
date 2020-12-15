@@ -28,7 +28,7 @@ value = 1;
 },
 {
 name = "Use Typo Metrics";
-value = 1;
+value = 0;
 },
 {
 name = vendorID;
@@ -169,7 +169,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2874;
+value = 2408;
 },
 {
 name = winDescent;
