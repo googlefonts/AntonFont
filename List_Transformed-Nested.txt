@@ -1,389 +1,101 @@
-Abrevedotbelow has nested Components
-abrevedotbelow has nested Components
-abrevedotbelow.sc has nested Components
-acaron.sc has nested Components
-Acircumflexdotbelow has nested Components
-acircumflexdotbelow has nested Components
-acircumflexdotbelow.sc has nested Components
-acute.sc has nested Components
-acutecomb_macroncomb has nested Components
-acutecomb_macroncomb has nested Components
-acutemacroncomb has nested Components
-Adieresismacron has nested Components
-adieresismacron has nested Components
-Adotbelow has nested Components
-adotbelow has nested Components
-adotbelow.sc has nested Components
-Adotmacron has nested Components
-adotmacron has nested Components
-AEmacron has nested Components
-aemacron has nested Components
-ainvertedbreve.sc has nested Components
-amacron.sc has nested Components
-aogonek.sc has nested Components
-Aringbelow has nested Components
-aringbelow has nested Components
-Bdotbelow has nested Components
-bdotbelow has nested Components
-Blinebelow has nested Components
-blinebelow has nested Components
-braceright.case contains scaled compo
-bracketright.case contains scaled compo
-brevebelowcomb has nested Components
-brevebelowcomb.case has nested Components
-Bstroke contains scaled compo
-caroncomb.case contains scaled compo
-ccaron.sc has nested Components
-ccedilla.sc has nested Components
-Ccedillaacute has nested Components
-ccedillaacute has nested Components
-ccedillaacute.sc has nested Components
-cedillacomb.case has nested Components
-circumflexbelowcomb has nested Components
-commaabovecomb has nested Components
-commaturnedabovecomb.case has nested Components
-Dafrican has nested Components
-dcaron.sc has nested Components
-Dcircumflexbelow has nested Components
-dcircumflexbelow has nested Components
-Dcroat has nested Components
-dcroat.sc has nested Components
-Ddotbelow has nested Components
-ddotbelow has nested Components
-ddotbelow.sc has nested Components
-dieresisbelowcomb has nested Components
-Dlinebelow has nested Components
-dlinebelow has nested Components
-dlinebelow.sc has nested Components
-dotaboverightcomb has nested Components
-dotbelowcomb has nested Components
-dotbelowcomb.case has nested Components
-dzcaron.sc has nested Components
-ecaron.sc has nested Components
-Ecedillabreve has nested Components
-Ecedillabreve has nested Components
-ecedillabreve has nested Components
-ecedillabreve has nested Components
-ecedillabreve.sc has nested Components
-Ecircumflexbelow has nested Components
-ecircumflexbelow has nested Components
-Ecircumflexdotbelow has nested Components
-ecircumflexdotbelow has nested Components
-ecircumflexdotbelow has nested Components
-ecircumflexdotbelow.sc has nested Components
-Edotbelow has nested Components
-edotbelow has nested Components
-edotbelow.sc has nested Components
-eight.numr has nested Components
-eight.sups has nested Components
-eightsuperior has nested Components
-einvertedbreve contains scaled compo
-einvertedbreve.sc has nested Components
-emacron.sc has nested Components
-Emacronacute has nested Components
-emacronacute has nested Components
-emacronacute has nested Components
-emacronacute.sc has nested Components
-Emacrongrave has nested Components
-emacrongrave has nested Components
-emacrongrave has nested Components
-emacrongrave.sc has nested Components
-eogonek.sc has nested Components
-Ereversed contains scaled compo
-eth.sc contains scaled compo
-Etilde has nested Components
-Etildebelow has nested Components
-etildebelow has nested Components
-eturned contains scaled compo
-exclamdown.sc contains scaled compo
-Ezhcaron has nested Components
-ezhcaron has nested Components
-Ezhreversed contains scaled compo
-ezhreversed contains scaled compo
-five.numr has nested Components
-five.sups has nested Components
-fiveeighths has nested Components
-fiveeighths has nested Components
-fivesuperior has nested Components
-four.numr has nested Components
-four.sups has nested Components
-foursuperior has nested Components
-gcaron.sc has nested Components
-glottalstopreversed contains scaled compo
-Gmacron has nested Components
-gmacron has nested Components
-gmacron.sc has nested Components
-gravecomb_macroncomb has nested Components
-gravecomb_macroncomb has nested Components
-Gstroke contains scaled compo
-Hbrevebelow has nested Components
-hbrevebelow has nested Components
-hbrevebelow.sc has nested Components
-Hcedilla has nested Components
-hcedilla has nested Components
-Hdieresis has nested Components
-hdieresis has nested Components
-Hdotaccent has nested Components
-hdotaccent has nested Components
-Hdotbelow has nested Components
-hdotbelow has nested Components
-hdotbelow.sc has nested Components
-hmod contains scaled compo
-hungarumlautcomb.case has nested Components
-Iacute_J.loclNLD has nested Components
-Idotbelow has nested Components
-idotbelow has nested Components
-idotbelow.sc has nested Components
-iinvertedbreve contains scaled compo
-iinvertedbreve.sc has nested Components
-imacron.sc has nested Components
-iogonek.sc has nested Components
-Istroke contains scaled compo
-istroke has nested Components
-Itildebelow has nested Components
-itildebelow has nested Components
-Jstroke contains scaled compo
-Kacute has nested Components
-kacute has nested Components
-Kdotbelow has nested Components
-kdotbelow has nested Components
-klinebelow has nested Components
-Kstroke contains scaled compo
-lacute has nested Components
-lambdastroke contains scaled compo
-Lcircumflexbelow has nested Components
-lcircumflexbelow has nested Components
-Ldotbelow has nested Components
-ldotbelow has nested Components
-ldotbelow.sc has nested Components
-Ldotbelowmacron has nested Components
-Ldotbelowmacron has nested Components
-ldotbelowmacron has nested Components
-ldotbelowmacron has nested Components
-Llinebelow has nested Components
-llinebelow has nested Components
-llinebelow.sc has nested Components
-Lmiddletilde has nested Components
-lmiddletilde has nested Components
-macronbelowcomb has nested Components
-macronbelowcomb.case has nested Components
-macroncomb_acutecomb has nested Components
-macroncomb_acutecomb has nested Components
-macroncomb_gravecomb has nested Components
-macroncomb_gravecomb has nested Components
-macrongravecomb contains scaled compo
-Macute has nested Components
-macute has nested Components
-Mdotbelow has nested Components
-mdotbelow has nested Components
-mdotbelow.sc has nested Components
-mturned contains scaled compo
-ncaron.sc has nested Components
-Ncircumflexbelow has nested Components
-ncircumflexbelow has nested Components
-Ndotaccent has nested Components
-ndotaccent has nested Components
-Ndotbelow has nested Components
-ndotbelow has nested Components
-ndotbelow.sc has nested Components
-nine.numr has nested Components
-nine.sups has nested Components
-ninesuperior has nested Components
-Nlinebelow has nested Components
-nlinebelow has nested Components
-nlinebelow.sc has nested Components
-Ocircumflexdotbelow has nested Components
-ocircumflexdotbelow has nested Components
-ocircumflexdotbelow has nested Components
-ocircumflexdotbelow.sc has nested Components
-Odieresismacron has nested Components
-odieresismacron has nested Components
-odieresismacron.sc has nested Components
-Odotaccentmacron has nested Components
-odotaccentmacron has nested Components
-odotaccentmacron.sc has nested Components
-Odotbelow has nested Components
-odotbelow has nested Components
-odotbelow.sc has nested Components
-ogonekcomb.case has nested Components
-ohornacute has nested Components
-ohornacute.sc has nested Components
-Ohorndotbelow has nested Components
-ohorndotbelow has nested Components
-ohorndotbelow.sc has nested Components
-ohorndotbelow.sc has nested Components
-ohorngrave has nested Components
-ohorngrave.sc has nested Components
-ohornhookabove.sc has nested Components
-ohorntilde has nested Components
-ohorntilde.sc has nested Components
-ohungarumlaut.sc has nested Components
-oinvertedbreve contains scaled compo
-omacron.sc has nested Components
-Omacronacute has nested Components
-omacronacute has nested Components
-omacronacute has nested Components
-omacronacute.sc has nested Components
-Omacrongrave has nested Components
-omacrongrave has nested Components
-omacrongrave has nested Components
-omacrongrave.sc has nested Components
-one.numr has nested Components
-one.sups has nested Components
-oneeighth has nested Components
-oneeighth has nested Components
-onehalf has nested Components
-onehalf has nested Components
-onequarter has nested Components
-onequarter has nested Components
-onesuperior has nested Components
-onethird has nested Components
-onethird has nested Components
-oogonek.sc has nested Components
-Oogonekmacron has nested Components
-Oogonekmacron has nested Components
-oogonekmacron has nested Components
-oogonekmacron has nested Components
-oopen contains scaled compo
-Oslashacute has nested Components
-oslashacute has nested Components
-oslashacute.sc has nested Components
-otildeacute has nested Components
-otildedieresis has nested Components
-otildedieresis has nested Components
-Otildemacron has nested Components
-otildemacron has nested Components
-otildemacron.sc has nested Components
-Pacute has nested Components
-pacute has nested Components
-parenright.case contains scaled compo
-Pstroke contains scaled compo
-pstroke contains scaled compo
-questiondown contains scaled compo
-questiondown.sc contains scaled compo
-rcaron.sc has nested Components
-Rdotaccent has nested Components
-rdotaccent has nested Components
-Rdotbelow has nested Components
-rdotbelow has nested Components
-rdotbelow.sc has nested Components
-Rdotbelowmacron has nested Components
-Rdotbelowmacron has nested Components
-rdotbelowmacron has nested Components
-rdotbelowmacron has nested Components
-rightanglebracket-math contains scaled compo
-rinvertedbreve contains scaled compo
-Rlinebelow has nested Components
-rlinebelow has nested Components
-rlinebelow.sc has nested Components
-Rstroke contains scaled compo
-scaron has nested Components
-scaron.sc has nested Components
-scedilla.sc has nested Components
-Sdotbelow has nested Components
-sdotbelow has nested Components
-sdotbelow.sc has nested Components
-Sdotbelowdotaccent has nested Components
-Sdotbelowdotaccent has nested Components
-sdotbelowdotaccent has nested Components
-sdotbelowdotaccent has nested Components
-sdotbelowdotaccent.sc has nested Components
-seven.numr has nested Components
-seven.sups has nested Components
-seveneighths has nested Components
-seveneighths has nested Components
-sevensuperior has nested Components
-six.numr has nested Components
-six.sups has nested Components
-sixsuperior has nested Components
-tbar contains scaled compo
-tcaron.sc has nested Components
-tcedilla.sc has nested Components
-Tcircumflexbelow has nested Components
-tcircumflexbelow has nested Components
-tdieresis has nested Components
-Tdotbelow has nested Components
-tdotbelow has nested Components
-tdotbelow.sc has nested Components
-three.numr has nested Components
-three.sups has nested Components
-threeeighths has nested Components
-threeeighths has nested Components
-threequarters has nested Components
-threequarters has nested Components
-threesuperior has nested Components
-tildebelowcomb has nested Components
-Tlinebelow has nested Components
-tlinebelow has nested Components
-tlinebelow.sc has nested Components
-two.numr has nested Components
-two.sups has nested Components
-twosuperior has nested Components
-twothirds has nested Components
-twothirds has nested Components
-ubar contains scaled compo
-Ucircumflexbelow has nested Components
-ucircumflexbelow has nested Components
-Udieresisbelow has nested Components
-udieresisbelow has nested Components
-Udieresismacron has nested Components
-udieresismacron has nested Components
-Udotbelow has nested Components
-udotbelow has nested Components
-udotbelow.sc has nested Components
-uhornacute has nested Components
-uhornacute.sc has nested Components
-Uhorndotbelow has nested Components
-uhorndotbelow has nested Components
-uhorndotbelow.sc has nested Components
-uhorndotbelow.sc has nested Components
-uhorngrave has nested Components
-uhorngrave.sc has nested Components
-uhornhookabove.sc has nested Components
-uhorntilde has nested Components
-uhorntilde.sc has nested Components
-uhungarumlaut.sc has nested Components
-uinvertedbreve contains scaled compo
-umacron.sc has nested Components
-Umacrondieresis has nested Components
-umacrondieresis has nested Components
-umacrondieresis has nested Components
-umacrondieresis.sc has nested Components
-uogonek.sc has nested Components
-utildeacute has nested Components
-utildeacute has nested Components
-Utildebelow has nested Components
-utildebelow has nested Components
-Vdotbelow has nested Components
-vdotbelow has nested Components
-Vtilde has nested Components
-vtilde has nested Components
-Vturned contains scaled compo
-vturned contains scaled compo
-Wdotaccent has nested Components
-wdotaccent has nested Components
-Wdotbelow has nested Components
-wdotbelow has nested Components
-wmod contains scaled compo
-Xdieresis has nested Components
-xdieresis has nested Components
-Xdotaccent has nested Components
-xdotaccent has nested Components
-ydotaccent has nested Components
-Ydotbelow has nested Components
-ydotbelow has nested Components
-ydotbelow.sc has nested Components
-ymacron.sc has nested Components
-ystroke contains scaled compo
-zcaron.sc has nested Components
-Zcircumflex has nested Components
-zcircumflex has nested Components
-Zdotbelow has nested Components
-zdotbelow has nested Components
-zdotbelow.sc has nested Components
-zero.numr has nested Components
-zero.sups has nested Components
-zerosuperior has nested Components
-Zlinebelow has nested Components
-zlinebelow has nested Components
-zmod contains scaled compo
+'Bstroke contains scaled components
+Ereversed contains scaled components
+Ezhreversed contains scaled components
+Gstroke contains scaled components
+Istroke contains scaled components
+Jstroke contains scaled components
+Kstroke contains scaled components
+Glyph Oslashacute has nested Components
+Pstroke contains scaled components
+Rstroke contains scaled components
+Vturned contains scaled components
+Glyph Iacute_J.loclNLD has nested Components
+einvertedbreve contains scaled components
+eturned contains scaled components
+ezhreversed contains scaled components
+glottalstopreversed contains scaled components
+iinvertedbreve contains scaled components
+lambdastroke contains scaled components
+mturned contains scaled components
+oinvertedbreve contains scaled components
+oopen contains scaled components
+Glyph oslashacute has nested Components
+pstroke contains scaled components
+rinvertedbreve contains scaled components
+tbar contains scaled components
+ubar contains scaled components
+uinvertedbreve contains scaled components
+vturned contains scaled components
+ystroke contains scaled components
+eth.sc contains scaled components
+Glyph dcroat.sc has nested Components
+Glyph dzcaron.sc has nested Components
+Glyph ohornacute.sc has nested Components
+Glyph ohorndotbelow.sc has nested Components
+Glyph ohorngrave.sc has nested Components
+Glyph ohornhookabove.sc has nested Components
+Glyph ohorntilde.sc has nested Components
+Glyph oslashacute.sc has nested Components
+Glyph uhornacute.sc has nested Components
+Glyph uhorndotbelow.sc has nested Components
+Glyph uhorngrave.sc has nested Components
+Glyph uhornhookabove.sc has nested Components
+Glyph uhorntilde.sc has nested Components
+hmod contains scaled components
+wmod contains scaled components
+zmod contains scaled components
+Glyph zero.numr has nested Components
+Glyph one.numr has nested Components
+Glyph two.numr has nested Components
+Glyph three.numr has nested Components
+Glyph four.numr has nested Components
+Glyph five.numr has nested Components
+Glyph six.numr has nested Components
+Glyph seven.numr has nested Components
+Glyph eight.numr has nested Components
+Glyph nine.numr has nested Components
+Glyph zerosuperior has nested Components
+Glyph onesuperior has nested Components
+Glyph twosuperior has nested Components
+Glyph threesuperior has nested Components
+Glyph foursuperior has nested Components
+Glyph fivesuperior has nested Components
+Glyph sixsuperior has nested Components
+Glyph sevensuperior has nested Components
+Glyph eightsuperior has nested Components
+Glyph ninesuperior has nested Components
+Glyph zero.sups has nested Components
+Glyph one.sups has nested Components
+Glyph two.sups has nested Components
+Glyph three.sups has nested Components
+Glyph four.sups has nested Components
+Glyph five.sups has nested Components
+Glyph six.sups has nested Components
+Glyph seven.sups has nested Components
+Glyph eight.sups has nested Components
+Glyph nine.sups has nested Components
+Glyph onehalf has nested Components
+Glyph onehalf has nested Components
+Glyph onethird has nested Components
+Glyph onethird has nested Components
+Glyph twothirds has nested Components
+Glyph twothirds has nested Components
+Glyph onequarter has nested Components
+Glyph onequarter has nested Components
+Glyph threequarters has nested Components
+Glyph threequarters has nested Components
+Glyph oneeighth has nested Components
+Glyph oneeighth has nested Components
+Glyph threeeighths has nested Components
+Glyph threeeighths has nested Components
+Glyph fiveeighths has nested Components
+Glyph fiveeighths has nested Components
+Glyph seveneighths has nested Components
+Glyph seveneighths has nested Components
+questiondown contains scaled components
+parenright.case contains scaled components
+braceright.case contains scaled components
+bracketright.case contains scaled components
+exclamdown.sc contains scaled components
+questiondown.sc contains scaled components
+rightanglebracket-math contains scaled components
