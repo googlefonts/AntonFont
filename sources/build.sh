@@ -4,7 +4,7 @@ set -e
 mkdir -p ../fonts/
 
 echo = "Generating TTFs"
-fontmake -g Anton_2113.glyphs -o ttf --output-dir ../fonts -a
+fontmake -g Anton.glyphs -o ttf --output-dir ../fonts -a
 
 echo = "Post procesing TTF"
 ttfs=$(ls ../fonts/*.ttf)
