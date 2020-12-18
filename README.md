@@ -27,3 +27,6 @@ Then run the build script in the terminal:
 cd sources
 sh build.sh
 ```
+## Update V3.116
+
+This update includes the extension of the character set to support African Latin alphabets. It also includes some fixes to character drawings, revised spacing and basic kerning.
