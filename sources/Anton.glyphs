@@ -1,5 +1,9 @@
 {
-.appVersion = "1348";
+.appVersion = "1342";
+DisplayStrings = (
+"/llinebelow/llinebelowcomb",
+"/T_h/space/c_h/space/c_t/space/f_f/space/f_f_i/space/f_f_l/space/f_j/space/fi/space/fl/space/s_t \012Th/space ch/space ct/space ff/space ffi/space ffl/space fj/space fi/space fl/space st\012/space"
+);
 classes = (
 {
 automatic = 1;
@@ -11,11 +15,11 @@ copyright = "Copyright 2020 The Anton Project Authors (https://github.com/google
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -37,6 +41,15 @@ value = 1;
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+CR,
+NULL,
+nbspace
+);
 }
 );
 date = "2020-12-16 15:05:30 +0000";
@@ -881,7 +894,7 @@ capHeight = 1760;
 customParameters = (
 {
 name = typoAscender;
-value = 2330;
+value = 2409;
 },
 {
 name = typoDescender;
@@ -892,16 +905,8 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 2876;
-},
-{
-name = winDescent;
-value = 674;
-},
-{
 name = hheaAscender;
-value = 2330;
+value = 2409;
 },
 {
 name = hheaDescender;
@@ -910,6 +915,14 @@ value = -674;
 {
 name = hheaLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 2876;
+},
+{
+name = winDescent;
+value = 674;
 },
 {
 name = underlinePosition;
@@ -943,6 +956,53 @@ xHeight = 1500;
 }
 );
 glyphs = (
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 1022;
+}
+);
+userData = {
+com.typemytype.robofont.layerData = {
+};
+};
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 480;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 0;
+}
+);
+unicode = 0000;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
+width = 480;
+}
+);
+unicode = 00A0;
+userData = {
+com.typemytype.robofont.layerData = {
+};
+};
+},
 {
 glyphname = A;
 layers = (
@@ -46790,20 +46850,6 @@ com.typemytype.robofont.layerData = {
 };
 },
 {
-glyphname = nbspace;
-layers = (
-{
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 480;
-}
-);
-unicode = 00A0;
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
-},
-{
 glyphname = thinspace;
 layers = (
 {
@@ -46822,29 +46868,6 @@ width = 0;
 }
 );
 unicode = 200B;
-},
-{
-glyphname = CR;
-layers = (
-{
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 480;
-}
-);
-unicode = 000D;
-},
-{
-glyphname = .notdef;
-layers = (
-{
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 1022;
-}
-);
-userData = {
-com.typemytype.robofont.layerData = {
-};
-};
 },
 {
 glyphname = cedi;
@@ -61375,16 +61398,6 @@ width = 0;
 );
 },
 {
-glyphname = NULL;
-layers = (
-{
-layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
-width = 0;
-}
-);
-unicode = 0000;
-},
-{
 glyphname = uniA7AE;
 layers = (
 {
@@ -61590,7 +61603,11 @@ layers = (
 {
 components = (
 {
-name = llinebelow;
+name = l;
+},
+{
+name = macronbelowcomb;
+transform = "{1, 0, 0, 1, 254, 0}";
 }
 );
 layerId = "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA";
