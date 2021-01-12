@@ -1,0 +1,101 @@
+'Bstroke contains scaled components
+Ereversed contains scaled components
+Ezhreversed contains scaled components
+Gstroke contains scaled components
+Istroke contains scaled components
+Jstroke contains scaled components
+Kstroke contains scaled components
+Glyph Oslashacute has nested Components
+Pstroke contains scaled components
+Rstroke contains scaled components
+Vturned contains scaled components
+Glyph Iacute_J.loclNLD has nested Components
+einvertedbreve contains scaled components
+eturned contains scaled components
+ezhreversed contains scaled components
+glottalstopreversed contains scaled components
+iinvertedbreve contains scaled components
+lambdastroke contains scaled components
+mturned contains scaled components
+oinvertedbreve contains scaled components
+oopen contains scaled components
+Glyph oslashacute has nested Components
+pstroke contains scaled components
+rinvertedbreve contains scaled components
+tbar contains scaled components
+ubar contains scaled components
+uinvertedbreve contains scaled components
+vturned contains scaled components
+ystroke contains scaled components
+eth.sc contains scaled components
+Glyph dcroat.sc has nested Components
+Glyph dzcaron.sc has nested Components
+Glyph ohornacute.sc has nested Components
+Glyph ohorndotbelow.sc has nested Components
+Glyph ohorngrave.sc has nested Components
+Glyph ohornhookabove.sc has nested Components
+Glyph ohorntilde.sc has nested Components
+Glyph oslashacute.sc has nested Components
+Glyph uhornacute.sc has nested Components
+Glyph uhorndotbelow.sc has nested Components
+Glyph uhorngrave.sc has nested Components
+Glyph uhornhookabove.sc has nested Components
+Glyph uhorntilde.sc has nested Components
+hmod contains scaled components
+wmod contains scaled components
+zmod contains scaled components
+Glyph zero.numr has nested Components
+Glyph one.numr has nested Components
+Glyph two.numr has nested Components
+Glyph three.numr has nested Components
+Glyph four.numr has nested Components
+Glyph five.numr has nested Components
+Glyph six.numr has nested Components
+Glyph seven.numr has nested Components
+Glyph eight.numr has nested Components
+Glyph nine.numr has nested Components
+Glyph zerosuperior has nested Components
+Glyph onesuperior has nested Components
+Glyph twosuperior has nested Components
+Glyph threesuperior has nested Components
+Glyph foursuperior has nested Components
+Glyph fivesuperior has nested Components
+Glyph sixsuperior has nested Components
+Glyph sevensuperior has nested Components
+Glyph eightsuperior has nested Components
+Glyph ninesuperior has nested Components
+Glyph zero.sups has nested Components
+Glyph one.sups has nested Components
+Glyph two.sups has nested Components
+Glyph three.sups has nested Components
+Glyph four.sups has nested Components
+Glyph five.sups has nested Components
+Glyph six.sups has nested Components
+Glyph seven.sups has nested Components
+Glyph eight.sups has nested Components
+Glyph nine.sups has nested Components
+Glyph onehalf has nested Components
+Glyph onehalf has nested Components
+Glyph onethird has nested Components
+Glyph onethird has nested Components
+Glyph twothirds has nested Components
+Glyph twothirds has nested Components
+Glyph onequarter has nested Components
+Glyph onequarter has nested Components
+Glyph threequarters has nested Components
+Glyph threequarters has nested Components
+Glyph oneeighth has nested Components
+Glyph oneeighth has nested Components
+Glyph threeeighths has nested Components
+Glyph threeeighths has nested Components
+Glyph fiveeighths has nested Components
+Glyph fiveeighths has nested Components
+Glyph seveneighths has nested Components
+Glyph seveneighths has nested Components
+questiondown contains scaled components
+parenright.case contains scaled components
+braceright.case contains scaled components
+bracketright.case contains scaled components
+exclamdown.sc contains scaled components
+questiondown.sc contains scaled components
+rightanglebracket-math contains scaled components
