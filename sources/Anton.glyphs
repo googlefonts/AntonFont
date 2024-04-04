@@ -1,7 +1,7 @@
 {
-.appVersion = "1348";
+.appVersion = "3243";
 DisplayStrings = (
-"/.notdef \015/nbspace AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adieresismacron/Adotaccent/Adotbelow/Adotmacron À/Ahookabove/Ainvertedbreve/Alpha-latin/Amacron/Aogonek Å/Aringacute/Aringbelow/Astroke ÃÆ/AEacute/AEmacron B/Bdotaccent/Bdotbelow/Beta-latin/Bhook/Blinebelow/Bstroke C/Cacute/Ccaron Ç/Ccedillaacute/Ccircumflex/Cdotaccent/Chi-latin/Chook/Cstroke D/DZ/DZcaron/Dafrican Ð/Dcaron/Dcedilla/Dcircumflexbelow/Dcroat/Ddotaccent/Ddotbelow/Dhook/Dlinebelow/Dz/Dzcaron EÉ/Ebreve/Ecaron/Ecedilla/Ecedillabreve Ê/Ecircumflexacute/Ecircumflexbelow/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edblgrave Ë/Edotaccent/Edotbelow È/Ehookabove/Einvertedbreve/Emacron/Emacronacute/Emacrongrave/Eogonek/Eopen/Ereversed/Esh/Estroke/Etilde/Etildebelow/Ezh/Ezhcaron/Ezhreversed F/Fdotaccent/Fhook G/Gacute/Gbreve/Gcaron/Gcircumflex/Gcommaaccent/Gdotaccent/Ghook/Glottalstop/Gmacron/Gstroke H/Hbar/Hbrevebelow/Hcaron/Hcedilla/Hcircumflex/Hdieresis/Hdotaccent/Hdotbelow/Heng/Hhook/Hturned I/IJ Í/Ibreve/Icaron Î/Idblgrave Ï/Idieresisacute/Idotaccent/Idotbelow Ì/Ihookabove/Iinvertedbreve/Imacron/Iogonek/Iotaafrican/Istroke/Itilde/Itildebelow J/Jcircumflex/Jcrossedtail/Jstroke K/Kacute/Kcaron/Kcommaaccent/Kdotbelow/Khook/Klinebelow/Kstroke L/LJ/Lacute/Lbar/Lbelt/Lcaron/Lcircumflexbelow/Lcommaaccent/Ldot/Ldotbelow/Ldotbelowmacron/Ldoublebar/Lj/Llinebelow/Lmiddletilde/Lslash M/Macute/Mdotaccent/Mdotbelow/Mturned N/NJ/Nacute/Ncaron/Ncircumflexbelow/Ncommaaccent/Ndotaccent/Ndotbelow/Ngrave/Eng/Nhookleft/Nj/Nlinebelow/Nlongrightleg ÑO/OU Ó/Obreve/Ocaron/Ocenteredtilde Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccent/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Omacronacute/Omacrongrave/Omega-latin/Oogonek/Oogonekmacron/Oopen Ø/Oslashacute Õ/Otildeacute/Otildedieresis/Otildemacron/OE P/Pacute/Pdotaccent/Phook Þ/Pstroke Q/Qhooktail R/Racute/Rcaron/Rcommaaccent/Rdblgrave/Rdotaccent/Rdotbelow/Rdotbelowmacron/Rinvertedbreve/Rlinebelow/Rstroke/Rtail S/Sacute/Sacutedotaccent/Saltillo/Scaron/Scarondotaccent/Scedilla/Scircumflex/Scommaaccent/Sdotaccent/Sdotbelow/Sdotbelowdotaccent/Germandbls/Sobliquestroke/Schwa T/Tbar/Tcaron/Tcedilla/Tcircumflexbelow/Tcommaaccent/Tdiagonalstroke/Tdotaccent/Tdotbelow/Thook/Tlinebelow/Tretroflexhook UÚ/Ubar/Ubreve/Ucaron Û/Ucircumflexbelow/Udblgrave Ü/Udieresisacute/Udieresisbelow/Udieresiscaron/Udieresisgrave/Udieresismacron/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Umacrondieresis/Uogonek/Upsilonafrican/Uring/Utilde/Utildeacute/Utildebelow V/Gammaafrican/Vdotbelow/Vhook/Vtilde/Vturned W/Wacute/Wcircumflex/Wdieresis/Wdotaccent/Wdotbelow/Wgrave/Whook X/Xdieresis/Xdotaccent YÝ/Ycircumflex/Ydieresis/Ydotaccent/Ydotbelow/Ygrave/Yhook/Yhookabove/Ymacron/Ystroke/Ytilde Z/Zacute/Zcaron/Zcircumflex/Zdotaccent/Zdotbelow/Zlinebelow/Zstroke/Iacute_J.loclNLD/Ismall aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adieresismacron/adotaccent/adotbelow/adotmacron à/ahookabove/ainvertedbreve/alpha-latin/amacron/aogonek å/aringacute/aringbelow/astroke ãæ/aeacute/aemacron b/bdotaccent/bdotbelow/beta-latin/bhook/bilabialclick/blinebelow/bstroke c/cacute/ccaron ç/ccedillaacute/ccircumflex/cdotaccent/chi-latin/chook/cstroke dð/dcaron/dcedilla/dcircumflexbelow/dcroat/ddotaccent/ddotbelow/dhook/dlinebelow/dtail/dz/dzcaron eé/ebreve/ecaron/ecedilla/ecedillabreve ê/ecircumflexacute/ecircumflexbelow/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edblgrave ë/edotaccent/edotbelow è/ehookabove/einvertedbreve/emacron/emacronacute/emacrongrave/eogonek/eopen/esh/estroke/etilde/etildebelow/eturned/schwa/ezh/ezhcaron/ezhreversed f/fdotaccent g/gacute/gamma-latin/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent/ghook/glottalstop/glottalstopreversed/glottalstopsmall/gmacron/gstroke h/hbar/hbrevebelow/hcaron/hcedilla/hcircumflex/hdieresis/hdotaccent/hdotbelow/heng/hhook/hturned i/idotless í/ibreve/icaron î/idblgrave ï/idieresisacute/idotaccent/idotbelow ì/ihookabove/iinvertedbreve/ij/imacron/iogonek/iota-latin/istroke/itilde/itildebelow j/jdotless/jcaron/jcircumflex/jcrossedtail/jstroke k/kacute/kcaron/kcommaaccent/kdotbelow/kgreenlandic/khook/klinebelow/kstroke l/lacute/lambdastroke/lbar/lbelt/lcaron/lcircumflexbelow/lcommaaccent/ldot/ldotbelow/ldotbelowmacron/ldoublebar/lj/llinebelow/lmiddletilde/lslash m/macute/mdotaccent/mdotbelow/mturned n/nacute/napostrophe/ncaron/ncircumflexbelow/ncommaaccent/ndotaccent/ndotbelow/ngrave/eng/nhookleft/nj/nlegrightlong/nlinebelow ñoó/obarred/obreve/ocaron ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccent/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/omacronacute/omacrongrave/omega-latin/oogonek/oogonekmacron/oopen ø/oslashacute õ/otildeacute/otildedieresis/otildemacron/ou/oe p/pacute/pdotaccent/phook þ/pstroke q/qhooktail r/racute/rcaron/rcommaaccent/rdblgrave/rdotaccent/rdotbelow/rdotbelowmacron/rfishhook/rhook/rinvertedbreve/rlinebelow/rstroke s/sacute/sacutedotaccent/saltillo/scaron/scarondotaccent/scedilla/scircumflex/scommaaccent/sdotaccent/sdotbelow/sdotbelowdotaccent ß/sobliquestroke/longs t/tbar/tcaron/tcedilla/tcircumflexbelow/tcommaaccent/tdiagonalstroke/tdieresis/tdotaccent/tdotbelow/thook/tlinebelow/tretroflexhook uú/ubar/ubreve/ucaron û/ucircumflexbelow/udblgrave ü/udieresisacute/udieresisbelow/udieresiscaron/udieresisgrave/udieresismacron/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/umacrondieresis/uogonek/upsilon-latin/uring/utilde/utildeacute/utildebelow v/vdotbelow/vhook/vtilde/vturned w/wacute/wcircumflex/wdieresis/wdotaccent/wdotbelow/wgrave/whook x/xdieresis/xdotaccent yý/ycircumflex/ydieresis/ydotaccent/ydotbelow/ygrave/yhook/yhookabove/ymacron/ystroke/ytilde z/zacute/zcaron/zcircumflex/zdotaccent/zdotbelow/zlinebelow/zstroke/istroke.dotless/iacute_j.loclNLD/T_h/c_h/c_t/f_f/f_f_i/f_f_l/f_j/fi/fl/s_t/a.sc/aacute.sc/abreve.sc/abreveacute.sc/abrevedotbelow.sc/abrevegrave.sc/abrevehookabove.sc/abrevetilde.sc/acaron.sc/acircumflex.sc/acircumflexacute.sc/acircumflexdotbelow.sc/acircumflexgrave.sc/acircumflexhookabove.sc/acircumflextilde.sc/adblgrave.sc/adieresis.sc/adotbelow.sc/agrave.sc/ahookabove.sc/ainvertedbreve.sc/amacron.sc/aogonek.sc/aring.sc/aringacute.sc/atilde.sc/ae.sc/aeacute.sc/b.sc/c.sc/cacute.sc/ccaron.sc/ccedilla.sc/ccedillaacute.sc/ccircumflex.sc/cdotaccent.sc/d.sc/eth.sc/dcaron.sc/dcroat.sc/ddotbelow.sc/dlinebelow.sc/dzcaron.sc/e.sc/eacute.sc/ebreve.sc/ecaron.sc/ecedillabreve.sc/ecircumflex.sc/ecircumflexacute.sc/ecircumflexdotbelow.sc/ecircumflexgrave.sc/ecircumflexhookabove.sc/ecircumflextilde.sc/edblgrave.sc/edieresis.sc/edotaccent.sc/edotbelow.sc/egrave.sc/ehookabove.sc/einvertedbreve.sc/emacron.sc/emacronacute.sc/emacrongrave.sc/eogonek.sc/etilde.sc/schwa.sc/f.sc/g.sc/gbreve.sc/gcaron.sc/gcircumflex.sc/gcommaaccent.sc/gdotaccent.sc/gmacron.sc/h.sc/hbar.sc/hbrevebelow.sc/hcircumflex.sc/hdotbelow.sc/i.sc/idotless.sc/ibreve.sc/icircumflex.sc/idblgrave.sc/idieresis.sc/idieresisacute.sc/idotbelow.sc/igrave.sc/ihookabove.sc/iinvertedbreve.sc/imacron.sc/iogonek.sc/itilde.sc/j.sc/jcircumflex.sc/k.sc/kcommaaccent.sc/kgreenlandic.sc/l.sc/lacute.sc/lcaron.sc/lcommaaccent.sc/ldot.sc/ldotbelow.sc/lj.sc/llinebelow.sc/lslash.sc/m.sc/mdotbelow.sc/n.sc/nacute.sc/ncaron.sc/ncommaaccent.sc/ndotaccent.sc/ndotbelow.sc/eng.sc/nj.sc/nlinebelow.sc/ntilde.sc/o.sc/oacute.sc/obreve.sc/ocircumflex.sc/ocircumflexacute.sc/ocircumflexdotbelow.sc/ocircumflexgrave.sc/ocircumflexhookabove.sc/ocircumflextilde.sc/odblgrave.sc/odieresis.sc/odieresismacron.sc/odotaccentmacron.sc/odotbelow.sc/ograve.sc/ohookabove.sc/ohorn.sc/ohornacute.sc/ohorndotbelow.sc/ohorngrave.sc/ohornhookabove.sc/ohorntilde.sc/ohungarumlaut.sc/oinvertedbreve.sc/omacron.sc/omacronacute.sc/omacrongrave.sc/oogonek.sc/oslash.sc/oslashacute.sc/otilde.sc/otildeacute.sc/otildedieresis.sc/otildemacron.sc/oe.sc/p.sc/thorn.sc/q.sc/r.sc/racute.sc/rcaron.sc/rcommaaccent.sc/rdblgrave.sc/rdotbelow.sc/rinvertedbreve.sc/rlinebelow.sc/s.sc/sacute.sc/sacutedotaccent.sc/scaron.sc/scarondotaccent.sc/scedilla.sc/scircumflex.sc/scommaaccent.sc/sdotaccent.sc/sdotbelow.sc/sdotbelowdotaccent.sc/germandbls.sc/t.sc/tbar.sc/tcaron.sc/tcedilla.sc/tcommaaccent.sc/tdieresis.sc/tdotbelow.sc/tlinebelow.sc/u.sc/uacute.sc/ubreve.sc/ucircumflex.sc/udblgrave.sc/udieresis.sc/udotbelow.sc/ugrave.sc/uhorn.sc/uhornacute.sc/uhorndotbelow.sc/uhorngrave.sc/uhornhookabove.sc/uhorntilde.sc/uhungarumlaut.sc/uinvertedbreve.sc/umacron.sc/umacrondieresis.sc/uogonek.sc/uring.sc/utilde.sc/utildeacute.sc/v.sc/w.sc/wacute.sc/wcircumflex.sc/wdieresis.sc/wgrave.sc/x.sc/y.sc/yacute.sc/ycircumflex.sc/ydieresis.sc/ydotaccent.sc/ydotbelow.sc/ygrave.sc/yhookabove.sc/ymacron.sc/ytilde.sc/z.sc/zacute.sc/zcaron.sc/zdotaccent.sc/zdotbelow.sc ªº/clickalveolar/clickdental/clicklateral/clickretroflex/hmod/wmod/Delta/Sigma/Omega/pi/zmod 0123456789/zero.zero/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior/zero.subs/zero.sinf/one.sinf/two.sinf/three.sinf/four.sinf/five.sinf/six.sinf/seven.sinf/eight.sinf/nine.sinf/one.subs/two.subs/three.subs/four.subs/five.subs/six.subs/seven.subs/eight.subs/nine.subs/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior/zero.sups/one.sups/two.sups/three.sups/four.sups/five.sups/six.sups/seven.sups/eight.sups/nine.sups/fraction ½/onethird/twothirds ¼¾/oneeighth/threeeighths/fiveeighths/seveneighths .,:;/ellipsis !¡?¿·/bullet *#///backslash/periodcentered.case/bullet.case/periodcentered.loclCAT.case/slash.case/backslash.case/periodcentered.loclCAT (){}[]/parenleft.case/parenright.case/braceleft.case/braceright.case/bracketleft.case/bracketright.case -­/endash/emdash/figuredash/horizontalbar/hyphentwo _/hyphen.case/endash.case/emdash.case/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case/period.dnom/comma.dnom/period.numr/comma.numr/exclam.sc/exclamdown.sc/question.sc/questiondown.sc/periodcentered.sc/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc/periodcentered.loclCAT.sc/quotedbl.sc/quotesingle.sc/period.sups/comma.sups/leftanglebracket-math/rightanglebracket-math/figurespace/hairspace/punctuationspace/space/thinspace/zerowidthspace/cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/bulletoperator/commercialMinusSign/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬^/emptyset/infinity/integral/Ohm/increment/product/summation/radical µ/partialdiff %/perthousand/upArrow/rightArrow/downArrow/leftArrow/blackDiamond/whiteDiamond/lozenge/blackSquare/whiteSquare/upBlackTriangle/rightBlackTriangle/downBlackTriangle/leftBlackTriangle/upWhiteTriangle/rightWhiteTriangle/downWhiteTriangle/leftWhiteTriangle @&¶§©®/trademark °/minute/second |¦/dagger/literSign/daggerdbl/numero/estimated/at.case/colonmod/doubleapostrophemod/minusmod/shortequalmod/ampersand.sc/apostrophemod/commaturnedmod/doubleprimemod/firsttonechinese/fourthtonechinese/glottalstopmod/primemod/ringhalfleft/ringhalfright/secondtonechinese/verticallinelowmod/verticallinemod/dieresiscomb/dotaccentcomb/gravecomb/gravecomb_macroncomb/acutecomb/acutecomb_macroncomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/macroncomb_gravecomb/macroncomb_acutecomb/hookabovecomb/verticallineabovecomb/dblgravecomb/candraBinducomb/breveinvertedcomb/commaturnedabovecomb/commaabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/ringbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/verticallinebelowcomb/circumflexbelowcomb/brevebelowcomb/breveinvertedbelowcomb/tildebelowcomb/macronbelowcomb/lowlinecomb/tildeoverlaycomb/strokeshortcomb/dotaboverightcomb/acutemacroncomb ¨/dotaccent `´/hungarumlaut/circumflex/caron/breve/ring/tilde ¯¸/ogonek/gravemacroncomb/macronacutecomb/macrongravecomb/commaaccentcomb.alt/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/dblgravecomb.case/breveinvertedcomb.case/commaturnedabovecomb.case/horncomb.case/dotbelowcomb.case/dieresisbelowcomb.case/commaaccentcomb.case/cedillacomb.case/ogonekcomb.case/brevebelowcomb.case/macronbelowcomb.case/strokelongcomb.case/acute.sc/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/rbelowcomb/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/brevecomb_tildecomb.case/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case/uniA7AE/uniA7B8/uniA7B9/foundryicon/barcomp/llinebelowcomb/U1D453/Aemacron"
+"/.notdef/CR/nbspace AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adieresismacron/Adotaccent/Adotbelow/Adotmacron À/Ahookabove/Ainvertedbreve/Alpha-latin/Amacron/Aogonek Å/Aringacute/Aringbelow/Astroke ÃÆ/AEacute/AEmacron B/Bdotaccent/Bdotbelow/Beta-latin/Bhook/Blinebelow/Bstroke C/Cacute/Ccaron Ç/Ccedillaacute/Ccircumflex/Cdotaccent/Chi-latin/Chook/Cstroke D/DZ/DZcaron/Dafrican Ð/Dcaron/Dcedilla/Dcircumflexbelow/Dcroat/Ddotaccent/Ddotbelow/Dhook/Dlinebelow/Dz/Dzcaron EÉ/Ebreve/Ecaron/Ecedilla/Ecedillabreve Ê/Ecircumflexacute/Ecircumflexbelow/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edblgrave Ë/Edotaccent/Edotbelow È/Ehookabove/Einvertedbreve/Emacron/Emacronacute/Emacrongrave/Eogonek/Eopen/Ereversed/Esh/Estroke/Etilde/Etildebelow/Ezh/Ezhcaron/Ezhreversed F/Fdotaccent/Fhook G/Gacute/Gbreve/Gcaron/Gcircumflex/Gcommaaccent/Gdotaccent/Ghook/Glottalstop/Gmacron/Gstroke H/Hbar/Hbrevebelow/Hcaron/Hcedilla/Hcircumflex/Hdieresis/Hdotaccent/Hdotbelow/Heng/Hhook/Hturned I/IJ Í/Ibreve/Icaron Î/Idblgrave Ï/Idieresisacute/Idotaccent/Idotbelow Ì/Ihookabove/Iinvertedbreve/Imacron/Iogonek/Iotaafrican/Istroke/Itilde/Itildebelow J/Jcircumflex/Jcrossedtail/Jstroke K/Kacute/Kcaron/Kcommaaccent/Kdotbelow/Khook/Klinebelow/Kstroke L/LJ/Lacute/Lbar/Lbelt/Lcaron/Lcircumflexbelow/Lcommaaccent/Ldot/Ldotbelow/Ldotbelowmacron/Ldoublebar/Lj/Llinebelow/Lmiddletilde/Lslash M/Macute/Mdotaccent/Mdotbelow/Mturned N/NJ/Nacute/Ncaron/Ncircumflexbelow/Ncommaaccent/Ndotaccent/Ndotbelow/Ngrave/Eng/Nhookleft/Nj/Nlinebelow/Nlongrightleg ÑO/OU Ó/Obreve/Ocaron/Ocenteredtilde Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccent/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Omacronacute/Omacrongrave/Omega-latin/Oogonek/Oogonekmacron/Oopen Ø/Oslashacute Õ/Otildeacute/Otildedieresis/Otildemacron/OE P/Pacute/Pdotaccent/Phook Þ/Pstroke Q/Qhooktail R/Racute/Rcaron/Rcommaaccent/Rdblgrave/Rdotaccent/Rdotbelow/Rdotbelowmacron/Rinvertedbreve/Rlinebelow/Rstroke/Rtail S/Sacute/Sacutedotaccent/Saltillo/Scaron/Scarondotaccent/Scedilla/Scircumflex/Scommaaccent/Sdotaccent/Sdotbelow/Sdotbelowdotaccent/Germandbls/Sobliquestroke/Schwa T/Tbar/Tcaron/Tcedilla/Tcircumflexbelow/Tcommaaccent/Tdiagonalstroke/Tdotaccent/Tdotbelow/Thook/Tlinebelow/Tretroflexhook UÚ/Ubar/Ubreve/Ucaron Û/Ucircumflexbelow/Udblgrave Ü/Udieresisacute/Udieresisbelow/Udieresiscaron/Udieresisgrave/Udieresismacron/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Umacrondieresis/Uogonek/Upsilonafrican/Uring/Utilde/Utildeacute/Utildebelow V/Gammaafrican/Vdotbelow/Vhook/Vtilde/Vturned W/Wacute/Wcircumflex/Wdieresis/Wdotaccent/Wdotbelow/Wgrave/Whook X/Xdieresis/Xdotaccent YÝ/Ycircumflex/Ydieresis/Ydotaccent/Ydotbelow/Ygrave/Yhook/Yhookabove/Ymacron/Ystroke/Ytilde Z/Zacute/Zcaron/Zcircumflex/Zdotaccent/Zdotbelow/Zlinebelow/Zstroke/Iacute_J.loclNLD/Ismall aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adieresismacron/adotaccent/adotbelow/adotmacron à/ahookabove/ainvertedbreve/alpha-latin/amacron/aogonek å/aringacute/aringbelow/astroke ãæ/aeacute/aemacron b/bdotaccent/bdotbelow/beta-latin/bhook/bilabialclick/blinebelow/bstroke c/cacute/ccaron ç/ccedillaacute/ccircumflex/cdotaccent/chi-latin/chook/cstroke dð/dcaron/dcedilla/dcircumflexbelow/dcroat/ddotaccent/ddotbelow/dhook/dlinebelow/dtail/dz/dzcaron eé/ebreve/ecaron/ecedilla/ecedillabreve ê/ecircumflexacute/ecircumflexbelow/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edblgrave ë/edotaccent/edotbelow è/ehookabove/einvertedbreve/emacron/emacronacute/emacrongrave/eogonek/eopen/esh/estroke/etilde/etildebelow/eturned/schwa/ezh/ezhcaron/ezhreversed f/fdotaccent g/gacute/gamma-latin/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent/ghook/glottalstop/glottalstopreversed/glottalstopsmall/gmacron/gstroke h/hbar/hbrevebelow/hcaron/hcedilla/hcircumflex/hdieresis/hdotaccent/hdotbelow/heng/hhook/hturned i/idotless í/ibreve/icaron î/idblgrave ï/idieresisacute/idotaccent/idotbelow ì/ihookabove/iinvertedbreve/ij/imacron/iogonek/iota-latin/istroke/itilde/itildebelow j/jdotless/jcaron/jcircumflex/jcrossedtail/jstroke k/kacute/kcaron/kcommaaccent/kdotbelow/kgreenlandic/khook/klinebelow/kstroke l/lacute/lambdastroke/lbar/lbelt/lcaron/lcircumflexbelow/lcommaaccent/ldot/ldotbelow/ldotbelowmacron/ldoublebar/lj/llinebelow/lmiddletilde/lslash m/macute/mdotaccent/mdotbelow/mturned n/nacute/napostrophe/ncaron/ncircumflexbelow/ncommaaccent/ndotaccent/ndotbelow/ngrave/eng/nhookleft/nj/nlegrightlong/nlinebelow ñoó/obarred/obreve/ocaron ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccent/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/omacronacute/omacrongrave/omega-latin/oogonek/oogonekmacron/oopen ø/oslashacute õ/otildeacute/otildedieresis/otildemacron/ou/oe p/pacute/pdotaccent/phook þ/pstroke q/qhooktail r/racute/rcaron/rcommaaccent/rdblgrave/rdotaccent/rdotbelow/rdotbelowmacron/rfishhook/rhook/rinvertedbreve/rlinebelow/rstroke s/sacute/sacutedotaccent/saltillo/scaron/scarondotaccent/scedilla/scircumflex/scommaaccent/sdotaccent/sdotbelow/sdotbelowdotaccent ß/sobliquestroke/longs t/tbar/tcaron/tcedilla/tcircumflexbelow/tcommaaccent/tdiagonalstroke/tdieresis/tdotaccent/tdotbelow/thook/tlinebelow/tretroflexhook uú/ubar/ubreve/ucaron û/ucircumflexbelow/udblgrave ü/udieresisacute/udieresisbelow/udieresiscaron/udieresisgrave/udieresismacron/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/umacrondieresis/uogonek/upsilon-latin/uring/utilde/utildeacute/utildebelow v/vdotbelow/vhook/vtilde/vturned w/wacute/wcircumflex/wdieresis/wdotaccent/wdotbelow/wgrave/whook x/xdieresis/xdotaccent yý/ycircumflex/ydieresis/ydotaccent/ydotbelow/ygrave/yhook/yhookabove/ymacron/ystroke/ytilde z/zacute/zcaron/zcircumflex/zdotaccent/zdotbelow/zlinebelow/zstroke/istroke.dotless/iacute_j.loclNLD/T_h/c_h/c_t/f_f/f_f_i/f_f_l/f_j/fi/fl/s_t/a.sc/aacute.sc/abreve.sc/abreveacute.sc/abrevedotbelow.sc/abrevegrave.sc/abrevehookabove.sc/abrevetilde.sc/acaron.sc/acircumflex.sc/acircumflexacute.sc/acircumflexdotbelow.sc/acircumflexgrave.sc/acircumflexhookabove.sc/acircumflextilde.sc/adblgrave.sc/adieresis.sc/adotbelow.sc/agrave.sc/ahookabove.sc/ainvertedbreve.sc/amacron.sc/aogonek.sc/aring.sc/aringacute.sc/atilde.sc/ae.sc/aeacute.sc/b.sc/c.sc/cacute.sc/ccaron.sc/ccedilla.sc/ccedillaacute.sc/ccircumflex.sc/cdotaccent.sc/d.sc/eth.sc/dcaron.sc/dcroat.sc/ddotbelow.sc/dlinebelow.sc/dzcaron.sc/e.sc/eacute.sc/ebreve.sc/ecaron.sc/ecedillabreve.sc/ecircumflex.sc/ecircumflexacute.sc/ecircumflexdotbelow.sc/ecircumflexgrave.sc/ecircumflexhookabove.sc/ecircumflextilde.sc/edblgrave.sc/edieresis.sc/edotaccent.sc/edotbelow.sc/egrave.sc/ehookabove.sc/einvertedbreve.sc/emacron.sc/emacronacute.sc/emacrongrave.sc/eogonek.sc/etilde.sc/schwa.sc/f.sc/g.sc/gbreve.sc/gcaron.sc/gcircumflex.sc/gcommaaccent.sc/gdotaccent.sc/gmacron.sc/h.sc/hbar.sc/hbrevebelow.sc/hcircumflex.sc/hdotbelow.sc/i.sc/idotless.sc/ibreve.sc/icircumflex.sc/idblgrave.sc/idieresis.sc/idieresisacute.sc/idotbelow.sc/igrave.sc/ihookabove.sc/iinvertedbreve.sc/imacron.sc/iogonek.sc/itilde.sc/j.sc/jcircumflex.sc/k.sc/kcommaaccent.sc/kgreenlandic.sc/l.sc/lacute.sc/lcaron.sc/lcommaaccent.sc/ldot.sc/ldotbelow.sc/lj.sc/llinebelow.sc/lslash.sc/m.sc/mdotbelow.sc/n.sc/nacute.sc/ncaron.sc/ncommaaccent.sc/ndotaccent.sc/ndotbelow.sc/eng.sc/nj.sc/nlinebelow.sc/ntilde.sc/o.sc/oacute.sc/obreve.sc/ocircumflex.sc/ocircumflexacute.sc/ocircumflexdotbelow.sc/ocircumflexgrave.sc/ocircumflexhookabove.sc/ocircumflextilde.sc/odblgrave.sc/odieresis.sc/odieresismacron.sc/odotaccentmacron.sc/odotbelow.sc/ograve.sc/ohookabove.sc/ohorn.sc/ohornacute.sc/ohorndotbelow.sc/ohorngrave.sc/ohornhookabove.sc/ohorntilde.sc/ohungarumlaut.sc/oinvertedbreve.sc/omacron.sc/omacronacute.sc/omacrongrave.sc/oogonek.sc/oslash.sc/oslashacute.sc/otilde.sc/otildeacute.sc/otildedieresis.sc/otildemacron.sc/oe.sc/p.sc/thorn.sc/q.sc/r.sc/racute.sc/rcaron.sc/rcommaaccent.sc/rdblgrave.sc/rdotbelow.sc/rinvertedbreve.sc/rlinebelow.sc/s.sc/sacute.sc/sacutedotaccent.sc/scaron.sc/scarondotaccent.sc/scedilla.sc/scircumflex.sc/scommaaccent.sc/sdotaccent.sc/sdotbelow.sc/sdotbelowdotaccent.sc/germandbls.sc/t.sc/tbar.sc/tcaron.sc/tcedilla.sc/tcommaaccent.sc/tdieresis.sc/tdotbelow.sc/tlinebelow.sc/u.sc/uacute.sc/ubreve.sc/ucircumflex.sc/udblgrave.sc/udieresis.sc/udotbelow.sc/ugrave.sc/uhorn.sc/uhornacute.sc/uhorndotbelow.sc/uhorngrave.sc/uhornhookabove.sc/uhorntilde.sc/uhungarumlaut.sc/uinvertedbreve.sc/umacron.sc/umacrondieresis.sc/uogonek.sc/uring.sc/utilde.sc/utildeacute.sc/v.sc/w.sc/wacute.sc/wcircumflex.sc/wdieresis.sc/wgrave.sc/x.sc/y.sc/yacute.sc/ycircumflex.sc/ydieresis.sc/ydotaccent.sc/ydotbelow.sc/ygrave.sc/yhookabove.sc/ymacron.sc/ytilde.sc/z.sc/zacute.sc/zcaron.sc/zdotaccent.sc/zdotbelow.sc ªº/clickalveolar/clickdental/clicklateral/clickretroflex/hmod/wmod/Delta/Sigma/Omega/pi/zmod 0123456789/zero.zero/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior/zero.subs/zero.sinf/one.sinf/two.sinf/three.sinf/four.sinf/five.sinf/six.sinf/seven.sinf/eight.sinf/nine.sinf/one.subs/two.subs/three.subs/four.subs/five.subs/six.subs/seven.subs/eight.subs/nine.subs/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior/zero.sups/one.sups/two.sups/three.sups/four.sups/five.sups/six.sups/seven.sups/eight.sups/nine.sups/fraction ½/onethird/twothirds ¼¾/oneeighth/threeeighths/fiveeighths/seveneighths .,:;/ellipsis !¡?¿·/bullet *#///backslash/periodcentered.case/bullet.case/periodcentered.loclCAT.case/slash.case/backslash.case/periodcentered.loclCAT (){}[]/parenleft.case/parenright.case/braceleft.case/braceright.case/bracketleft.case/bracketright.case -­/endash/emdash/figuredash/horizontalbar/hyphentwo _/hyphen.case/endash.case/emdash.case/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case/period.dnom/comma.dnom/period.numr/comma.numr/exclam.sc/exclamdown.sc/question.sc/questiondown.sc/periodcentered.sc/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc/periodcentered.loclCAT.sc/quotedbl.sc/quotesingle.sc/period.sups/comma.sups/leftanglebracket-math/rightanglebracket-math/figurespace/hairspace/punctuationspace/space/thinspace/zerowidthspace/cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/bulletoperator/commercialMinusSign/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬^/emptyset/infinity/integral/Ohm/increment/product/summation/radical µ/partialdiff %/perthousand/upArrow/rightArrow/downArrow/leftArrow/blackDiamond/whiteDiamond/lozenge/blackSquare/whiteSquare/upBlackTriangle/rightBlackTriangle/downBlackTriangle/leftBlackTriangle/upWhiteTriangle/rightWhiteTriangle/downWhiteTriangle/leftWhiteTriangle @&¶§©®/trademark °/minute/second |¦/dagger/literSign/daggerdbl/numero/estimated/at.case/colonmod/doubleapostrophemod/minusmod/shortequalmod/ampersand.sc/apostrophemod/commaturnedmod/doubleprimemod/firsttonechinese/fourthtonechinese/glottalstopmod/primemod/ringhalfleft/ringhalfright/secondtonechinese/verticallinelowmod/verticallinemod/dieresiscomb/dotaccentcomb/gravecomb/gravecomb_macroncomb/acutecomb/acutecomb_macroncomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/macroncomb_gravecomb/macroncomb_acutecomb/hookabovecomb/verticallineabovecomb/dblgravecomb/candraBinducomb/breveinvertedcomb/commaturnedabovecomb/commaabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/ringbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/verticallinebelowcomb/circumflexbelowcomb/brevebelowcomb/breveinvertedbelowcomb/tildebelowcomb/macronbelowcomb/lowlinecomb/tildeoverlaycomb/strokeshortcomb/dotaboverightcomb/acutemacroncomb ¨/dotaccent `´/hungarumlaut/circumflex/caron/breve/ring/tilde ¯¸/ogonek/gravemacroncomb/macronacutecomb/macrongravecomb/commaaccentcomb.alt/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/dblgravecomb.case/breveinvertedcomb.case/commaturnedabovecomb.case/horncomb.case/dotbelowcomb.case/dieresisbelowcomb.case/commaaccentcomb.case/cedillacomb.case/ogonekcomb.case/brevebelowcomb.case/macronbelowcomb.case/strokelongcomb.case/acute.sc/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/rbelowcomb/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/brevecomb_tildecomb.case/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case/uniA7AE/uniA7B8/uniA7B9/foundryicon/barcomp/llinebelowcomb/U1D453/Aemacron"
 );
 classes = (
 {
@@ -12,18 +12,6 @@ name = Uppercase;
 );
 copyright = "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)";
 customParameters = (
-{
-name = licenseURL;
-value = "https://scripts.sil.org/OFL";
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-},
-{
-name = vendorID;
-value = newt;
-},
 {
 name = fsType;
 value = (
@@ -49,6 +37,18 @@ CR,
 NULL,
 nbspace
 );
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = newt;
 }
 );
 date = "2020-12-16 15:05:30 +0000";
@@ -1162,9 +1162,11 @@ transform = "{1, 0, 0, 1, 167, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 167, 260}";
 }
@@ -1200,9 +1202,11 @@ transform = "{1, 0, 0, 1, -2, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, -2, 260}";
 }
@@ -1433,9 +1437,11 @@ transform = "{1, 0, 0, 1, 11, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 11, 260}";
 }
@@ -1467,9 +1473,11 @@ transform = "{1, 0, 0, 1, 11, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 11, 260}";
 }
@@ -1742,9 +1750,11 @@ transform = "{1, 0, 0, 1, 2, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 2, 260}";
 }
@@ -1807,9 +1817,11 @@ transform = "{1, 0, 0, 1, 250, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 250, 260}";
 }
@@ -1902,9 +1914,11 @@ transform = "{1, 0, 0, 1, 197, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 197, 260}";
 }
@@ -2074,9 +2088,11 @@ transform = "{1, 0, 0, 1, -358, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 132, 260}";
 }
@@ -2138,9 +2154,11 @@ transform = "{1, 0, 0, 1, 88, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 88, 260}";
 }
@@ -2277,9 +2295,11 @@ transform = "{1, 0, 0, 1, -6, 260}";
 };
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, -6, 260}";
 }
@@ -3942,9 +3962,11 @@ transform = "{1, 0, 0, 1, 115, 260}";
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 115, 260}";
 }
@@ -3978,9 +4000,11 @@ transform = "{1, 0, 0, 1, -54, 260}";
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, -54, 260}";
 }
@@ -4010,9 +4034,11 @@ transform = "{1, 0, 0, 1, -41, 260}";
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, -41, 260}";
 }
@@ -4041,9 +4067,11 @@ name = cedilla;
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = cedilla;
 transform = "{1, 0, 0, 1, 167, 0}";
 }
@@ -4106,9 +4134,11 @@ transform = "{1, 0, 0, 1, -41, 260}";
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, -41, 260}";
 }
@@ -4381,9 +4411,11 @@ transform = "{1, 0, 0, 1, -50, 260}";
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, -50, 260}";
 }
@@ -4417,9 +4449,11 @@ transform = "{1, 0, 0, 1, 198, 260}";
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 198, 260}";
 }
@@ -4481,9 +4515,11 @@ transform = "{1, 0, 0, 1, 145, 260}";
 };
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 145, 260}";
 }
@@ -6315,9 +6351,11 @@ transform = "{1, 0, 0, 1, -97, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, -97, 260}";
 }
@@ -6351,9 +6389,11 @@ transform = "{1, 0, 0, 1, -266, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, -266, 260}";
 }
@@ -6383,9 +6423,11 @@ transform = "{1, 0, 0, 1, -253, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, -253, 260}";
 }
@@ -6415,9 +6457,11 @@ transform = "{1, 0, 0, 1, -253, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, -253, 260}";
 }
@@ -6487,9 +6531,11 @@ transform = "{1, 0, 0, 1, -262, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, -262, 260}";
 }
@@ -6548,9 +6594,11 @@ transform = "{1, 0, 0, 1, -14, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, -14, 260}";
 }
@@ -6612,9 +6660,11 @@ transform = "{1, 0, 0, 1, -67, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, -67, 260}";
 }
@@ -6850,9 +6900,11 @@ transform = "{1, 0, 0, 1, -270, 260}";
 };
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, -270, 262}";
 }
@@ -8982,9 +9034,11 @@ transform = "{1, 0, 0, 1, 170, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 170, 260}";
 }
@@ -9018,9 +9072,11 @@ transform = "{1, 0, 0, 1, 1, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 1, 260}";
 }
@@ -9050,9 +9106,11 @@ transform = "{1, 0, 0, 1, 14, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 14, 260}";
 }
@@ -9103,9 +9161,11 @@ transform = "{1, 0, 0, 1, 14, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 14, 260}";
 }
@@ -9344,9 +9404,11 @@ transform = "{1, 0, 0, 1, 5, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 5, 260}";
 }
@@ -9420,9 +9482,11 @@ transform = "{1, 0, 0, 1, 253, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 253, 260}";
 }
@@ -9524,9 +9588,11 @@ transform = "{1, 0, 0, 1, 200, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 200, 260}";
 }
@@ -9928,9 +9994,11 @@ transform = "{1, 0, 0, 1, 5, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 133, 260}";
 }
@@ -10462,9 +10530,11 @@ transform = "{1, 0, 0, 1, -3, 260}";
 };
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, -3, 260}";
 }
@@ -12037,9 +12107,11 @@ transform = "{1, 0, 0, 1, -13, 0}";
 };
 components = (
 {
+alignment = -1;
 name = S;
 },
 {
+alignment = -1;
 name = cedilla;
 transform = "{1, 0, 0, 1, 212, 0}";
 }
@@ -12652,9 +12724,11 @@ transform = "{1, 0, 0, 1, -84, 0}";
 };
 components = (
 {
+alignment = -1;
 name = T;
 },
 {
+alignment = -1;
 name = cedilla;
 transform = "{1, 0, 0, 1, 138, 0}";
 }
@@ -13375,13 +13449,16 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 485, 260}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 485, 597}";
 }
@@ -14933,9 +15010,11 @@ transform = "{1, 0, 0, 1, 127, 260}";
 };
 components = (
 {
+alignment = -1;
 name = Y;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 127, 260}";
 }
@@ -14969,9 +15048,11 @@ transform = "{1, 0, 0, 1, -29, 260}";
 };
 components = (
 {
+alignment = -1;
 name = Y;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, -29, 260}";
 }
@@ -15001,9 +15082,11 @@ transform = "{1, 0, 0, 1, -38, 260}";
 };
 components = (
 {
+alignment = -1;
 name = Y;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, -38, 260}";
 }
@@ -15090,9 +15173,11 @@ transform = "{1, 0, 0, 1, 157, 260}";
 };
 components = (
 {
+alignment = -1;
 name = Y;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 157, 260}";
 }
@@ -15284,9 +15369,11 @@ transform = "{1, 0, 0, 1, -46, 260}";
 };
 components = (
 {
+alignment = -1;
 name = Y;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, -46, 260}";
 }
@@ -15969,9 +16056,11 @@ transform = "{1, 0, 0, 1, 503, 0}";
 };
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = brevecomb_gravecomb;
 transform = "{1, 0, 0, 1, 503, 0}";
 }
@@ -16005,9 +16094,11 @@ transform = "{1, 0, 0, 1, 503, 0}";
 };
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = brevecomb_hookabovecomb;
 transform = "{1, 0, 0, 1, 503, 0}";
 }
@@ -16041,10 +16132,11 @@ transform = "{1, 0, 0, 1, 503, 0}";
 };
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
-alignment = 1;
+alignment = -1;
 name = brevecomb_tildecomb;
 transform = "{1, 0, 0, 1, 503, 0}";
 }
@@ -16299,10 +16391,11 @@ transform = "{1, 0, 0, 1, 503, 0}";
 };
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
-alignment = 1;
+alignment = -1;
 name = circumflexcomb_tildecomb;
 transform = "{1, 0, 0, 1, 503, 0}";
 }
@@ -16393,13 +16486,16 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 503, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 503, 337}";
 }
@@ -16482,13 +16578,16 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = dotaccentcomb.case;
 transform = "{1, 0, 0, 1, 503, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 503, 319}";
 }
@@ -19928,9 +20027,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 510, -60}";
 },
@@ -19954,9 +20055,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 510, -60}";
 },
@@ -25304,10 +25407,11 @@ transform = "{1, 0, 0, 1, 509, 0}";
 };
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
-alignment = 1;
+alignment = -1;
 name = circumflexcomb_tildecomb;
 transform = "{1, 0, 0, 1, 508, 0}";
 }
@@ -25413,13 +25517,16 @@ transform = "{1, 0, 0, 1, 505, 0}";
 };
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 508, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 508, 337}";
 }
@@ -25485,13 +25592,16 @@ transform = "{1, 0, 0, 1, 505, 0}";
 };
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = dotaccentcomb.case;
 transform = "{1, 0, 0, 1, 508, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 508, 319}";
 }
@@ -26054,9 +26164,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 508, -60}";
 },
@@ -26080,9 +26192,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 508, -60}";
 },
@@ -26203,13 +26317,16 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = ogonekcomb;
 transform = "{1, 0, 0, 1, 987, 100}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 508, -60}";
 }
@@ -26547,13 +26664,16 @@ transform = "{1, 0, 0, 1, 505, 0}";
 };
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = tildecomb.case;
 transform = "{1, 0, 0, 1, 508, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 508, 347}";
 }
@@ -29732,13 +29852,16 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 505, 0}";
 },
 {
+alignment = -1;
 name = macroncomb;
 transform = "{1, 0, 0, 1, 505, 337}";
 }
@@ -39745,6 +39868,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = nine;
 }
 );
@@ -62419,11 +62543,11 @@ name = "Scale to UPM";
 value = 1000;
 }
 );
+interpolationWeight = 400;
 instanceInterpolations = {
 "6CD1E358-6E98-409F-9A1F-EA9DE4C1A8AA" = 1;
 };
 name = Regular;
-weightClass = Normal;
 }
 );
 kerning = {
